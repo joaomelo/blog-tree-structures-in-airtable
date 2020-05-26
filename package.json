@@ -9,6 +9,7 @@
   "dependencies": {
     "airtable": "^0.8.1",
     "bottleneck": "^2.19.5",
+    "regenerator-runtime": "^0.13.5",
     "tailwindcss": "^1.4.6"
   },
   "devDependencies": {
